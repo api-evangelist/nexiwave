@@ -1,0 +1,61 @@
+{
+    "name": "Nexiwave",
+    "description": "Nexiwave offers hosted voicemail to text service",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/nexiwave-logo.png",
+    "tags": [
+        "api provider",
+        "have api",
+        "networks",
+        "profile",
+        "recognition",
+        "speech",
+        "speech recognition"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/nexiwave\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Nexiwave",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/nexiwave-logo.png",
+            "humanURL": "http:\/\/nexiwave.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/nexiwave-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.nexiwave.com"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/nexiwave"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/nexiwave"
+        },
+        {
+            "type": "Email",
+            "url": "info@nexiwave.com"
+        },
+        {
+            "type": "Email",
+            "url": "john.doe_gmail.com@nexiwave.com"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/nexiwave.com\/"
+        }
+    ]
+}
