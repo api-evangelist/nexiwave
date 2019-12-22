@@ -11,8 +11,8 @@
         "speech",
         "speech recognition"
     ],
-    "created": "2019-12-19",
-    "modified": "2019-12-19",
+    "created": "2019-12-21",
+    "modified": "2019-12-21",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/nexiwave\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
@@ -26,13 +26,21 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/nexiwave-openapi.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/nexiwave\/master\/nexiwave-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/nexiwave\/master\/nexiwave-postman-collection.json"
                 }
             ]
         }
     ],
     "include": [],
     "x-common": [
+        {
+            "type": "APIs.json",
+            "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
+        },
         {
             "type": "Blog",
             "url": "http:\/\/blog.nexiwave.com"
